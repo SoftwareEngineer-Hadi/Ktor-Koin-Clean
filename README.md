@@ -36,7 +36,7 @@ This project aims to clearly showcase how to build Android apps that are:
 
 | Layer        | Technology                                                      |
 | ------------ | --------------------------------------------------------------- |
-| UI           | Jetpack Compose or XML (choose your preference)                 |
+| UI           | Jetpack Compose                                                 |
 | ViewModel    | AndroidX ViewModel                                              |
 | Networking   | **Ktor** (with `ktor-client-core`, `ktor-client-android`, etc.) |
 | DI           | **Koin**                                                        |
