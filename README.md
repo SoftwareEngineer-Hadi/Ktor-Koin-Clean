@@ -2,6 +2,8 @@
 
 A clean, scalable Android boilerplate using Ktor for HTTP (GET/POST), Koin for DI, MVVM, and Clean Architecture. Follows SOLID principles with separate data, domain, and presentation layers. Ideal for building testable, modular apps with clear responsibility separation.
 
+<br/>
+
 🧱 **Ktor + Koin + MVVM + Clean Architecture (Android)**
 
 A robust, scalable, and maintainable Android project that demonstrates how to integrate:
@@ -14,6 +16,7 @@ A robust, scalable, and maintainable Android project that demonstrates how to in
 
 ✅ Clean Architecture to structure code across layers (Data, Domain, Presentation)
 
+<br/>
 
 🎯 **Why This Project?**
 
@@ -27,12 +30,24 @@ This project aims to clearly showcase how to build Android apps that are:
 
 🔁 Scalable – easily extendable with additional features
 
+<br/>
 
+🔧 **Tech Stack**
+
+| Layer        | Technology                                                      |
+| ------------ | --------------------------------------------------------------- |
+| UI           | Jetpack Compose or XML (choose your preference)                 |
+| ViewModel    | AndroidX ViewModel                                              |
+| Networking   | **Ktor** (with `ktor-client-core`, `ktor-client-android`, etc.) |
+| DI           | **Koin**                                                        |
+| Architecture | MVVM + Clean Architecture                                       |
+| Language     | Kotlin (100%)                                                   |
+
+<br/>
 
 🏗️ **Architecture Overview**
 
 app
-
  └─ src/main/java/com/example/ktorclean
  
     ├─ core/
