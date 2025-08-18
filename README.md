@@ -47,8 +47,8 @@ This project aims to clearly showcase how to build Android apps that are:
 
 🏗️ **Architecture Overview**
 
-app
- └─ src/main/java/com/example/ktorclean
+app <br/>
+ └─ src/main/java/com/example/ktorkoin
  
     ├─ core/
     │   ├─ Either.kt
