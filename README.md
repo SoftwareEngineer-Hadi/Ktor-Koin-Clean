@@ -30,8 +30,11 @@ This project aims to clearly showcase how to build Android apps that are:
 🏗️ Architecture Overview
 
 app/
+
  └─ src/main/java/com/example/ktorclean/
+ 
     ├─ core/
+    
     │   ├─ Either.kt
     │   ├─ Failure.kt
     │   └─ Mapper.kt
