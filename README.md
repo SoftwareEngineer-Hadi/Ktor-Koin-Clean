@@ -34,7 +34,7 @@ app/
     ├─ core/
     │   ├─ Either.kt
     │   ├─ Failure.kt
-    │   └─ Mapper.kt
+    │   └─ Mapper.kt  
     ├─ data/
     │   ├─ remote/
     │   │   ├─ KtorClientFactory.kt
