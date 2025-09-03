@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KtorKoin</string>
+    <string name="title_activity_post_screen">PostScreen</string>
 </resources>
